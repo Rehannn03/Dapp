@@ -1,8 +1,10 @@
-# React + Vite
+### Dapp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Dapp where you can airdrop some sol to your wallet.
+You can also send some SOL to anyone.
 
-Currently, two official plugins are available:
+Shows your SOL balance and also shows some additional tokens that you have.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### NOTE
+This works only on Devnet and not on MAINNET!
